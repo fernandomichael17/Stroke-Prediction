@@ -1,4 +1,5 @@
 # Stroke Prediction
+![stroke_image](https://lh3.googleusercontent.com/proxy/-JIJxVvfw9MmPMrLcCYVg03xL_EAiTRFuXOdi8FIBTdQR1O9muiZwN2knUau_Z6KQTCf-4--Aq8QPyWvOAS4swsCISL9V9T7IOAZpjeSEg4hzLiBb7Hw4I_TLyjjlspSqnMrzPcg6oIs5-5Vf-gC6GU42oCb9G8)
 ***
 ## Domain Proyek
 ***
